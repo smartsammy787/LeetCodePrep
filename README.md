@@ -4,9 +4,9 @@
 
 ## Algorithms
 
-* [Monotonic Stack](https://github.com/smartsammy787/LeetCodePrep#Monotonic Stack)
+* [Monotonic Stack](https://github.com/smartsammy787/LeetCodePrep#Monotonic-Stack)
 * [Knapsack](https://github.com/smartsammy787/LeetCodePrep#KnapSack)
-* [Dynamic Programming](https://github.com/smartsammy787/LeetCodePrep#Dynamic Programming)
+* [Dynamic Programming](https://github.com/smartsammy787/LeetCodePrep#Dynamic-Programming)
 
 
 ## Monotonic Stack
