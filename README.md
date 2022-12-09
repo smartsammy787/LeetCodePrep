@@ -24,8 +24,8 @@
 ## Dynamic Programming
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./LeetCodeInterviewPrep/src/MonotonicStack/SumOfSubArrayMins.java) | _O(n^2)_ | _O(n^2)_ | Medium ||
-5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](./LeetCodeInterviewPrep/src/MonotonicStack/SumOfSubArrayMins.java) | _O(n^2)_ | _O(n^2)_ | Medium ||
-2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Java](./LeetCodeInterviewPrep/src/MonotonicStack/SumOfSubArrayMins.java) | _O(n^2)_ | _O(n^2)_ | Hard ||
+647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/CountPalindromicSubstrings.java) | _O(n^2)_ | _O(n^2)_ | Medium ||
+5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/LongestPalindromicSubstring.java) | _O(n^2)_ | _O(n^2)_ | Medium ||
+2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/MaxNumNonOverlappingPalindromicSubstring.java) | _O(n^2)_ | _O(n^2)_ | Hard ||
 
  
