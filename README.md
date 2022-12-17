@@ -9,6 +9,11 @@
 * [Dynamic Programming](https://github.com/smartsammy787/LeetCodePrep#Dynamic-Programming)
 * [Segment Tree](https://github.com/smartsammy787/LeetCodePrep#Segment-Tree)
 * [Binary Tree](https://github.com/smartsammy787/LeetCodePrep#Binary-Tree)
+* [Stack](https://github.com/smartsammy787/LeetCodePrep#Stack)
+* [Binary Search](https://github.com/smartsammy787/LeetCodePrep#Binary-Search)
+
+
+
 
 
 ## Monotonic Stack
@@ -31,6 +36,7 @@
 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/MaxNumNonOverlappingPalindromicSubstring.java) | _O(n^2)_ | _O(n^2)_ | Hard ||
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/ClimbingStairs.java) | _O(n)_ | _O(n)_ | Easy ||
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/LongestCommonSubsequence.java) | _O(n^2)_ | _O(n^2)_ | Medium ||
+300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/LongestIncreasingSubsequenceDp.java) | _O(n^2)_ | _O(n)_ | Medium ||
 
 
 ## Segment Tree
@@ -43,4 +49,22 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [Java](./LeetCodeInterviewPrep/src/binarySearch/RangeFrequencyQueries.java) | _O(n)_constructor/ _O(logn)_ functions| _O(n^2)_ | Medium ||
 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [Java](./LeetCodeInterviewPrep/src/binarySearch/FindRightInterval.java) | _O(nlogn)_| _O(n)_ | Medium ||
- 
+
+## Stack
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./LeetCodeInterviewPrep/src/stack/EvaluateReversePolishNotation.java) | _O(n)_ | _O(n)_ | Medium ||
+232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./LeetCodeInterviewPrep/src/stack/ImplementQueueUsingStack.java) | _O(n)_ | _O(n)_ | Easy ||
+
+## Binary Search
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/LongestIncreasingSubsequence.java) | _O(nlogn)_ | _O(n)_ | Medium ||
+
+
+
+
+
+
+
+
