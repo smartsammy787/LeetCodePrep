@@ -37,6 +37,11 @@
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/ClimbingStairs.java) | _O(n)_ | _O(n)_ | Easy ||
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/LongestCommonSubsequence.java) | _O(n^2)_ | _O(n^2)_ | Medium ||
 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/LongestIncreasingSubsequenceDp.java) | _O(n^2)_ | _O(n)_ | Medium ||
+309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/BestTimeToBuyStockWithCooldown.java) | _O(n)_ | _O(n)_ | Medium ||
+834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Java](./LeetCodeInterviewPrep/src/dynamicProgramming/SumOfDistancesInTree.java) | _O(n)_ | _O(n)_ | Hard ||
+
+
+
 
 
 ## Segment Tree
